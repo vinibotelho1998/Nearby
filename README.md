@@ -66,11 +66,11 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 
 ## :wave: Social
 
-Siga @sergiodb121 nas redes :wink:
+:wink:
 <br />
 
-- [Instagram](https://www.instagram.com/sergiodb121/)
-- [LinkedIn](https://www.linkedin.com/in/s%C3%A9rgio-damaceno-botelho-ab9a24184/)
+- [Instagram](https://www.instagram.com/botelhodamaceno/)
+- [LinkedIn](https://www.linkedin.com/in/viniciusdb8//)
 
 <br />
 
